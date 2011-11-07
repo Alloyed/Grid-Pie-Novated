@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Grid Pie, Launchpad edition</Name>
+  <Id>com.renoise.GridPieNovation</Id>
+  <Version>1</Version>
+  <ApiVersion>2.0</ApiVersion>
+  <Author>Dac Chartrand [dac@renoise.com] and Kyle McLamb [kjmclamb@gmail.com]</Author>
+  <Category/>
+  <Description>Renoise cut and pastry. Live sequence recombinator. __With Blinkey Buttons__</Description>
+  <Homepage/>
+  <Icon/>
+</RenoiseScriptingTool>
